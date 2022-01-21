@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Bebas Neue", cursive;
+}
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+.pen-title {
+  font-size: 80px;
+}
+.peng {
+  color: #fabe4c;
+}
